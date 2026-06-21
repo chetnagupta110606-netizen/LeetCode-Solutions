@@ -11,26 +11,45 @@
  */
 class Solution {
 public:
-    TreeNode *first=NULL,*second=NULL,*prev=NULL;
-    void inorder(TreeNode* root) {
-        if(root==NULL){
-            return;
-        }
-        inorder(root->left);
-        if(prev!=NULL && prev->val > root->val){
-            if(!first){
-                first=prev;
-            }
-            second=root;
-        }
-        prev=root;
-        inorder(root->right);
-    }
+    TreeNode *first=NULL,*sec=NULL,*prev= NULL;
     void recoverTree(TreeNode* root){
-        inorder(root);
-     int temp=first->val;
-     first->val=second->val;
-     second->val=temp;
+        while(root != NULL){
+            if(root->left == NULL){
+            if(prev != NULL && prev->val> root->val){
+                if(!first){
+                    first=prev;
+                }
+                sec=root;
+            }
+            prev=root;
+            root=root->right;
+        }
+        else{
+            //find IP
+            TreeNode *IP=root->left;
+            while(IP->right != NULL && IP->right != root){
+                IP=IP->right;
+            }
+            if(IP->right == NULL){
+                IP->right=root;
+                root=root->left;
+            }
+            else{
+                if(prev != NULL && prev->val > root->val){
+                    if(!first){
+                        first=prev;
+                    }
+                    sec=root;
+                }
+                prev=root;
+                IP->right=NULL;
+                root=root->right;
+            }
+        }
+        }
 
+        int temp=first->val;
+        first->val=sec->val;
+        sec->val=temp;
     }
 };
