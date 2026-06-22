@@ -6,6 +6,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -25,6 +27,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
@@ -34,6 +37,7 @@
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -47,4 +51,12 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
