@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -70,4 +72,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
