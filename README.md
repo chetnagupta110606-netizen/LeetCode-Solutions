@@ -16,6 +16,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -57,6 +58,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0994-rotting-oranges](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -79,8 +81,10 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/chetnagupta110606-netizen/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
